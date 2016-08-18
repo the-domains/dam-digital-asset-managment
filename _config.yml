@@ -1,0 +1,14 @@
+layout_spectrum: 0.12411680445075035
+typography_spectrum: 0.9929442212451249
+color:
+  brandStrength: 0.6554502919316292
+  lightness: 0.8795214702840894
+  saturation: 0.8646434561815113
+  rhythmicContrast: 0.6882299750577658
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: DAM // Digital Asset Managment
